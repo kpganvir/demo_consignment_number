@@ -9,7 +9,7 @@
 ## Setting Up
 ### 1. Clone/Download the Repository 
 
-### 2. run application
+### 2. Compile & Run application
 ```
 $ cd demo
 $ open command window cmd.exe
@@ -18,7 +18,7 @@ $ mvn spring:run
 ```
 
 
-### 4. test api 
+### 3. Test api 
 
 - open postman
 - POST: http://localhost:8080/generate  
@@ -36,9 +36,14 @@ $ mvn spring:run
    
 
 
-### 5. Run Tests
+### 4. Run Tests
 ```
 $ cd demo
 $ open command window cmd.exe
-$ mvn clean install `
+$ mvn clean install 
 ```
+
+
+### 5 Output
+
+![Alt text](/demo/images/Capture.png?raw=true "Output Postman")
