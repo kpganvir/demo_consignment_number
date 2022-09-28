@@ -46,4 +46,4 @@ $ mvn clean install
 
 ### 5 Output
 
-![Alt text](/images/Capture.png?raw=true "Output Postman")
+![Alt text](https://github.com/kpganvir/demo_consignment_number/blob/master/images/Capture.PNG "Output Postman")
